@@ -1,4 +1,4 @@
-#ENCODED BY : ANILWA
+#ENCODED BY : MAFIYA
 #ENCRYPTION : Py3 MARSHAL+ZLIB+B64
 #GITHUB : https://github.com/MafiyaHunter
 #----------------------------------------------
